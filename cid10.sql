@@ -6,6 +6,11 @@
 -- Tempo de geração: 07/04/2017 às 01:08
 -- Versão do servidor: 10.1.19-MariaDB
 -- Versão do PHP: 7.0.9
+-- Author: Aleck Yann Mattos
+-- Facebook: https://facebook.com/aleckyann
+-- GitHub: https://github.com/aleckyann
+-- Email: aleckyann@gmail.com
+
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 SET time_zone = "+00:00";
